@@ -1,1 +1,1 @@
-Training neural networks to play Tic-Tac-Toe using REINFORCE, policy gradients, and self-play in PyTorch.
+Deep Q-Network that learns Tic-Tac-Toe through self-play in PyTorch.
